@@ -1,4 +1,4 @@
-#### 👋 Hi, I’m @yahya
-#### 👀 Web Developer
-#### 🎯 I’m currently focusing on backend development
-#### 📫 reach me / soulaimane.yahya@usmba.ac.ma
+👋 Hi, I’m @yahya  <br>  
+👀 Web Developer  <br> 
+🎯 I’m currently focusing on backend development  <br> 
+📫 reach me / soulaimane.yahya@usmba.ac.ma  <br> 
